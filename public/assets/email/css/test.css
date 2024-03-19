@@ -1,0 +1,15 @@
+html, body {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background: #fff;
+}
+#wrapper {
+	width: 100%;
+	margin: auto;
+	background: #fff;
+	border-radius: 5px;
+	color:#333;
+	
+	
+}
